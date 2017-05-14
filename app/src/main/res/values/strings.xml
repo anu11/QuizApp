@@ -1,0 +1,31 @@
+<resources>
+    <string name="app_name">QuizApp</string>
+    <!--Question 1 -->
+    <string name="Question1">Q1.Golden temple is located in which city of India</string>
+    <string name="Q1option_1">Amritsar</string>
+    <string name="Q1option_2">Ludhiana</string>
+    <string name="Q1option_3">Chandigarh</string>
+
+    <!--Question 2 options-->
+    <string name="Question2">Q2.Which of these languages is spoken in India</string>
+    <string name="Q2option_1">chinese</string>
+    <string name="Q2option_2">bengali</string>
+    <string name="Q2option_3">marathi</string>
+
+    <!--Question 3 options-->
+    <string name="Question3">Q3.Where is Gateway Of India Located</string>
+
+    <!--Question 4 options-->
+    <string name="Question4">Q4.Which palce in India is known as Pink City</string>
+    <string name="Q4option_1">Udaipur</string>
+    <string name="Q4option_2">Jaipur</string>
+    <string name="Q4option_3">Baroda</string>
+
+    <!--Question 5 options-->
+    <string name="Question5">Q5.Which famous Lake is located in Udaipur</string>
+
+    <string name="submit_button">Submit</string>
+
+
+
+</resources>
